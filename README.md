@@ -4,7 +4,7 @@ AJUSTES PARA LA EJECUCIÓN DE LA API
 
 1. En la carpeta " db " se encuentra el script de la base de datos realizada en MySQL con volcado de datos en las tablas usuarios y libros. Necesario ejecutar para el funcionamiento de la API
 
-2. En la " ruta test/src/database.js " se encuentra la conexión con la base de datos en el archivo se encuentran las variables por defecto para la conexión, cambiar dichas variables según las credenciales de su base de datos
+2. En la ruta " test/src/database.js " se encuentra la conexión con la base de datos en el archivo se encuentran las variables por defecto para la conexión, cambiar dichas variables según las credenciales de su base de datos
 
 3. en la ruta " test/src/index.js " en los ajustes para la inicializción del servidor se encuentra por defecto el puerto donde este será escuchado, cambiar dicho valor si require utilizar otro puerto.
 
