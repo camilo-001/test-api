@@ -53,7 +53,9 @@ Prestamos
     "usuario_id": "",
     "libro_id: "";
 }
+
 --- si llega a ser requerido ---
+
 
 - Actualizar un prestamo --> http://localhost:3000/prestamos/update/id_prestamo
 - Eliminar eun prestamo -- > http://localhost:3000/prestamos/delete/id_prestamo
